@@ -1,0 +1,353 @@
+[
+    {
+        "outputFile": "/home/hax/AndroidStudioProjects/bradybound/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 45,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 57,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 55,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 47,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 56,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 56,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 58,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 58,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 54,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 54,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 78,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 78,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 71,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 71,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 69,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 69,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 74,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 74,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 69,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 69,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 66,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 877,
+                        "endColumn": 63,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endColumn": 47,
+                    "endOffset": 910
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 47,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 915,
+                    "endColumn": 45,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 45,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 84,
+                    "endOffset": 1041
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 84,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1046,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "/home/hax/AndroidStudioProjects/bradybound/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 712
+                    }
+                }
+            }
+        ]
+    }
+]
